@@ -12,7 +12,7 @@ public class Main {
         byte a = 5;
         short b = 6;
         int c = 10;
-        long d = 15416;
+        long d = 154168678766686l;
         float e = 563.242f;
         double f = 4554.45;
         boolean g = true;
@@ -26,5 +26,7 @@ public class Main {
         System.out.println(f);
         System.out.println(g);
         System.out.println(h);
+
+
     }
 }
