@@ -1,3 +1,5 @@
+package MainSession;
+
 import java.util.Scanner;
 
 public class TakingInput {
