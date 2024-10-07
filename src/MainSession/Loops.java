@@ -9,8 +9,5 @@ public class Loops {
 //            System.out.println("Good Afternoon");
 //            i++;
 //        }
-
-
-
     }
 }
